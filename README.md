@@ -8,3 +8,4 @@ This repo contains the code implementation of the examples mentioned in page: ht
 | code_2.c | Binary to decimal conversion |
 | code_3.c | Reverse integer |
 | code_4.c | Reverse string |
+| code_5.c | Check string palindrome |
