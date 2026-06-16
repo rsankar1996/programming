@@ -12,3 +12,5 @@ This repo contains the code implementation of the examples mentioned in page: ht
 | code_6.c | Set bit mask |
 | code_7.c | Reverse bits in a number |
 | code_8.c | Reverse a linked list |
+| code_9.c | Check power of two |
+| code_10.c | Check power of four |
