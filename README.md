@@ -11,3 +11,4 @@ This repo contains the code implementation of the examples mentioned in page: ht
 | code_5.c | Check string palindrome |
 | code_6.c | Set bit mask |
 | code_7.c | Reverse bits in a number |
+| code_8.c | Reverse a linked list |
