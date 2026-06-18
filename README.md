@@ -15,3 +15,4 @@ This repo contains the code implementation of the examples mentioned in page: ht
 | code_9.c | Check power of two |
 | code_10.c | Check power of four |
 | code_11.c | Get the bit position of least significant 1 |
+| code_12.c | Swap two number using bit manipulation |
