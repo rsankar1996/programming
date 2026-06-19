@@ -18,3 +18,4 @@ This repo contains the code implementation of the examples mentioned in page: ht
 | code_12.c | Swap two number using bit manipulation |
 | code_13.c | find the unique element in an array of repeating 3 elements |
 | code_14.c | Custom memory leak detector |
+|code_15.c | Custom strstr function |
