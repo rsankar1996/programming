@@ -4,21 +4,21 @@ This repo contains the code implementation of the examples mentioned in page: ht
 
 | Code | Example |
 | --- | --- |
-| code_1.c | swap two variables |
-| code_2.c | Binary to decimal conversion |
-| code_3.c | Reverse integer |
-| code_4.c | Reverse string |
-| code_5.c | Check string palindrome |
-| code_6.c | Set bit mask |
-| code_7.c | Reverse bits in a number |
-| code_8.c | Reverse a linked list |
-| code_9.c | Check power of two |
-| code_10.c | Check power of four |
-| code_11.c | Get the bit position of least significant 1 |
-| code_12.c | Swap two number using bit manipulation |
-| code_13.c | find the unique element in an array of repeating 3 elements |
-| code_14.c | Custom memory leak detector |
-|code_15.c | Custom strstr function |
-|code_16.c | Sum of digits in a number |
+| code_1.c | swap two variables | |
+| code_2.c | Binary to decimal conversion ||
+| code_3.c | Reverse integer ||
+| code_4.c | Reverse string ||
+| code_5.c | Check string palindrome ||
+| code_6.c | Set bit mask ||
+| code_7.c | Reverse bits in a number ||
+| code_8.c | Reverse a linked list ||
+| code_9.c | Check power of two ||
+| code_10.c | Check power of four ||
+| code_11.c | Get the bit position of least significant 1 ||
+| code_12.c | Swap two number using bit manipulation ||
+| code_13.c | find the unique element in an array of repeating 3 elements ||
+| code_14.c | Custom memory leak detector ||
+|code_15.c | Custom strstr function ||
+|code_16.c | Sum of digits in a number ||
 |code_17.c | Sum of numbers from 1 - number using recursion | Recursion |
 |code_18.c | Sum of digits in a number using recursion | Recusion |
