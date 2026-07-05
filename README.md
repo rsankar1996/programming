@@ -20,4 +20,5 @@ This repo contains the code implementation of the examples mentioned in page: ht
 | code_14.c | Custom memory leak detector |
 |code_15.c | Custom strstr function |
 |code_16.c | Sum of digits in a number |
-|code_17.c | Sum of numbers from 1 - number using recursion |
+|code_17.c | Sum of numbers from 1 - number using recursion | Recursion |
+|code_18.c | Sum of digits in a number using recursion | Recusion |
